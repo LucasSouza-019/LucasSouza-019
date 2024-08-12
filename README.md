@@ -1,5 +1,10 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Lucas!
+
+- 💻
+
+<i width="50" height="50" class="devicon-azuresqldatabase-plain"></i>
+
 <!--
 **LucasSouza-019/LucasSouza-019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
