@@ -1,7 +1,9 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Lucas! and I'm a software developer from Brazil
+## My name is Lucas! and I'm a developer from Brazil
 
 - 💻 currently focused on: AWS
+- ✨ making codes since : 2020
+- ⚡ My specialty is developing SQL and Iot Projects.
 
 
 # I code with
