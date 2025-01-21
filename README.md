@@ -3,15 +3,15 @@
 
 - 💻 currently focused on: AWS
 - ✨ making codes since : 2020
-- ⚡ My specialty is developing SQL and Iot Projects.
+- ⚡ My specialty is developing SQL.
 
 
 # I code with
 <div display="inline">
 <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="50" height="50" src="https://icons8.com.br/icon/NfbyHexzVEDk/react"/>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />      
 </div>
       
